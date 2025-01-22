@@ -3,4 +3,5 @@
 
 # Except the executable file
 !hello
+!pelco_d_app
 !.gitignore
